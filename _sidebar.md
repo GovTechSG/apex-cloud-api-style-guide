@@ -1,3 +1,19 @@
+- [Introduction](#introduction)
+- [Interpreting the Guidelines](/docs/interpeting-guidelines.md)
+- [Service Design Principles](/docs/service-design.md)
+- [HTTP Methods, Headers and Statuses](/docs/http.md)
+- [Hypermedia](/docs/hypermedia.md)
+- [Naming Conventions](/docs/naming-conventions.md)
+- [URI](/docs/uri.md)
+- [JSON Schema](/docs/json-schema.md)
+- [JSON Types](/docs/json-types.md)
+- [Error Handling](/docs/error-handling.md)
+- [API Versioning](/docs/api-versioning.md)
+- [Deprecation](/docs/deprecation.md)
+- [References](/docs/references.md)
+
+
+<!-- 
 * [Introduction](#introduction)
 * [Interpreting the Guidelines](#interpretation)
   * [Terms Used](#terms)
@@ -78,3 +94,4 @@
   * [Requirements](#deprecation-requirements)
   * [Solution](#deprecation-solution)
 * [References](#references)
+-->
