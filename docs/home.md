@@ -18,6 +18,8 @@ URIs containing variable blocks are specified according to [URI Template RFC 657
 
 HTTP headers are written in camelCase + hyphenated syntax, e.g. Foo-Request-Id.
 
+<!-- 
+
 <h1 id="interpretation">Interpreting The Guidelines</h1>
 
 <h2 id="terms">Terms Used</h2>
@@ -2326,3 +2328,5 @@ In order to avoid bloating the responses with static information related to depr
 [28]: v1/schema/json/draft-04/error_details.json "error_details.json"
 [29]: http://techbus.safaribooksonline.com/book/web-development/web-services/9780596809140 "RESTful Web Services Cookbook"
 [30]: http://json.org/ "JSON"
+
+-->
