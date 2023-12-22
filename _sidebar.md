@@ -1,4 +1,4 @@
-- [Introduction](#introduction)
+- [Introduction](/docs/home.md)
 - [Interpreting the Guidelines](/docs/interpeting-guidelines.md)
 - [Service Design Principles](/docs/service-design.md)
 - [HTTP Methods, Headers and Statuses](/docs/http.md)
