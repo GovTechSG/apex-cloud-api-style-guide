@@ -1,12 +1,10 @@
 # API Design Guidelines
 
-## Introduction
-
 We are sharing these guidelines to help propagate good API design practices in general. We have pulled extensively from the broader community and believe that it is important to give back. The documentation is as generic as possible to make it easier to incorporate into the guidelines you use in your projects.
 
 APIs follow the [RESTful][0] architectural style as much as possible. To support our objectives, we have developed a set of rules, standards, and conventions that apply to the design of RESTful APIs. These have been used to help design and maintain hundreds of APIs and have evolved over several years to meet the needs of a wide variety of use cases.
 
-### Document Semantics, Formatting, and Naming
+## Document Semantics, Formatting, and Naming
 
 The keywords "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
